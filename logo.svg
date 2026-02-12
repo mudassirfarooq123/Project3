@@ -1,0 +1,6 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M60 10 C50 35,30 45,20 55 C35 55,50 45,60 35 C70 45,85 55,100 55 C90 45,70 35,60 10Z" stroke="white" stroke-width="3" fill="none"></path>
+<path d="M60 25 C55 45,45 55,35 65 C50 65,58 55,60 50 C62 55,70 65,85 65 C75 55,65 45,60 25Z" stroke="white" stroke-width="3" fill="none"></path>
+<text x="60" y="95" fill="white" font-size="22" text-anchor="middle">Hybrid</text>
+<text x="60" y="112" fill="white" font-size="12" text-anchor="middle" letter-spacing="3">HERBS</text>
+</svg>
