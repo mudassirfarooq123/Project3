@@ -189,3 +189,37 @@ nav a{
   color: rgb(115, 115, 115);
 } 
 
+.mashroom{
+  border-top: 1px solid rgb(195, 189, 189);
+  border-bottom: 1px solid rgb(195, 189, 189);
+  padding: 20px;
+  width: 67vw;
+  margin-left: 300px;
+  height: 200px;
+  display: flex;
+}
+.content{
+  display: flex;
+  align-items: center;
+  max-width: 1220px;
+  /* margin: 0 auto; */
+  gap: 40px;
+}
+.text{
+  flex: 3;
+}
+.content h2{
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 15px;
+}
+.content p{
+  font-size: 16px;
+  line-height: 1.6;
+  color: #b5b3b3;
+}
+.mashroom .logo{
+  display: flex;
+  height: 170px; 
+  padding-right:20px;
+}
