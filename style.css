@@ -223,3 +223,116 @@ nav a{
   height: 150px; 
   padding-right:20px;
 }
+.tonic{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 60px;
+  margin-left: 300px;
+  margin-right: 400px;
+  border-bottom: 1px solid rgb(195, 189, 189);
+}
+.img{
+  height: 400px;
+  width: 700px;
+  display: flex;
+  margin: 30px;
+  padding-top: 8px;
+  margin-right: 10px;
+  
+}
+.tonic-content{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  margin-top: 1px;
+}
+.tonic-content h1{
+  font-weight: lighter;
+  margin-bottom: 10px;
+}
+.tonic-content h3{
+  color: rgb(231, 96, 141);
+  margin-bottom: 40px;
+
+}
+.tonic-content p{
+  color: #aaa6a6;
+  padding: 2px;
+}
+.tonic .btn{
+  margin-top: 50px;
+  background-color: rgb(231, 96, 141);
+  padding: 15px 20px;
+  border-radius: 30px;
+  color: white;
+  font-size: 1em;
+  border: transparent;
+  width: 180px;
+}
+.me{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 60px;
+  margin-left: 300px;
+  margin-right: 400px;
+  border-bottom: 1px solid rgb(195, 189, 189);
+}
+.me-content{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  margin-top: 1px;
+  padding: 20px;
+  width: 800px;
+}
+.me-content h1{
+  font-weight: lighter;
+  margin-bottom: 10px;
+}
+.me-content h3{
+  color: rgb(100, 230, 210);
+  margin-bottom: 40px;
+
+}
+.me-content p{
+  color: #aaa6a6;
+  padding: 2px;
+}
+.me .btn{
+  margin-top: 50px;
+  background-color: rgb(100, 230, 210);
+  padding: 15px 20px;
+  border-radius: 30px;
+  color: white;
+  font-size: 1em;
+  border: transparent;
+  width: 180px;
+}
+.stock{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* margin: 60px; */
+  /* margin-left: 300px; */
+  /* margin-right: 400px; */
+  border-bottom: 1px solid rgb(195, 189, 189);
+  height: 100px;
+}
+.stock-content{
+  margin-left: 300px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.stock img{
+  height: 250px;
+  width: 300px;
+  margin-right: 300px;
+  margin-bottom: 50px;
+}
